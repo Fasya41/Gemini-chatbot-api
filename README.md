@@ -1,4 +1,5 @@
-A simple Express.js server using Google Gemini AI to generate text, analyze images, summarize documents, and transcribe audio.
+A simple Express.js server using Google Gemini AI to create a chat API.
+Send messages as an array, get AI-generated responses back.
 
 🛠 Tools Node.js + Express Multer (file upload) Google GenAI SDK
 
